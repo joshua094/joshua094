@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshua094
 - 👀 I’m interested in UX Design and Web development
-- 🌱 I’m currently learning UX Design and Javascript/Nodejs
-- 💞️ I’m looking to collaborate on UX and backend engineering
+- 🌱 I’m currently working on building full-stack apps
+- 💞️ I’m looking to work and collaborate on UI/UX design, frontend, backend and full-stack apps
 - 📫 You can reach me by mail on amooemma10@gmail.com
 
 <!---
